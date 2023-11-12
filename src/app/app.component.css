@@ -1,0 +1,9 @@
+/* app.component.css */
+
+.container {
+  background-color: lightgreen; /* Світло зелений фон */
+  margin: 20px; /* Зовнішні відступи */
+  padding: 20px; /* Внутрішні відступи */
+  font-size: 18px; /* Збільшення розміру шрифту */
+  text-align: center; /* Вирівнювання тексту по центру */
+}
